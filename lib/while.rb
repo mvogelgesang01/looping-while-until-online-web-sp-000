@@ -1,7 +1,7 @@
 def using_while
   levitation_force = 6
 	while levitation_force < 10
-  puts out the phrase "Wingardium Leviosa" while our levitation force is less than 10
+  puts out the phrase "Wingardium Leviosa"
   levitation_force += 1
   end
 end
